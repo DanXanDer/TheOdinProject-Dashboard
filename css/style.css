@@ -22,7 +22,7 @@ div{
 }
 .header{
     display: grid;
-    grid-template-rows: 1fr 2fr;
+    grid-template-rows: 1fr 1.8fr;
 }
 .sidebar{
     grid-area: sidebar;
